@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poller One', cursive;
+    background-image: url(/images/sky.jpg);
+    color: whitesmoke;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(60, 69, 67, 0.8);
+
+}
+
+.left img {
+    box-shadow: rgba(60, 69, 67, 0.6);
+
+}
+
+.desc {
+    text-align: justify;
+}
+
+footer {
+    background-color: rgba(60, 69, 67, 0.6);
+}
+
+span {
+    color: black;
+    font-size: 1.2em;
+}
